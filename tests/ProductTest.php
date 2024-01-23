@@ -2,9 +2,7 @@
 
 namespace Tests;
 
-use App\Entity\Wallet;
 use PHPUnit\Framework\TestCase;
-use App\Entity\Person;
 use App\Entity\Product;
 
 class ProductTest extends TestCase
